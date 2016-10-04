@@ -1,0 +1,5 @@
+.. include:: links.txt
+.. include:: substitutions.txt
+
+
+.. add any other files to include in all files here.
