@@ -1,10 +1,8 @@
-.. _Label for links to part-2 file:
 
 
-Title
+Part 2
 #########
 
 
 
 
-.. include:: includes.txt
