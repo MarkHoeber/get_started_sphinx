@@ -1,7 +1,9 @@
 Get Started with Sphinx
 ###############################
 
-Contents:
+.. |Contents| replace:: Table of Contents
+
+|Contents|
 
 .. toctree::
    :maxdepth: 2
