@@ -2,7 +2,7 @@
 Background
 ==========
 
- is the process by which foreign DNA is introduced into a cell. Bacterial cells are commonly used as host cells for making copies of plasmid DNA in the lab because they are quick and easy to grow.
+Transformation is the process by which foreign DNA is introduced into a cell. Bacterial cells are commonly used as host cells for making copies of plasmid DNA in the lab because they are quick and easy to grow.
 
 Bacteria, especially *E.coli*, are the workhorse of a molecular lab. They are versatile organisms that can take in DNA and replicate it. 
 
