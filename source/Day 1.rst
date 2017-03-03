@@ -43,7 +43,7 @@ Do not add the antibiotic until after autoclaving and cooling to 55 degrees Cels
 
 2. Place magnetic stirrer into the bottom of the flasks and stir to mix.
 
-.. note:: The contents do not have to be completely in solution, but any powder left on the sides of the flask will caramelize on the glass during autoclaving.
+.. note:: *The contents do not have to be completely in solution, but any powder left on the sides of the flask will caramelize on the glass during autoclaving.*
 
 3. Cover the top of the flasks with aluminum foil and label with autoclave tape.
 
