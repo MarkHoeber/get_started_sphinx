@@ -7,7 +7,9 @@ Contents:
    :maxdepth: 2
 
    Background
-   Day 1
+   Day1
+   Day2
+   Day3
 
 
 .. add new files to list above to include them in toc
