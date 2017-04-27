@@ -8,8 +8,10 @@ Get Started with Sphinx
 .. toctree::
    :maxdepth: 2
 
-   part-1
-   part-2
+   Background
+   Day1
+   Day2
+   Day3
 
 
 .. add new files to list above to include them in toc
