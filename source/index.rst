@@ -10,6 +10,8 @@ Contents:
    Day1
    Day2
    Day3
+   Day4
+   Day5
 
 
 .. add new files to list above to include them in toc
