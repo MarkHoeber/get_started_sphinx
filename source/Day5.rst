@@ -1,10 +1,10 @@
-=====
+#####
 Day 5
-=====
+#####
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===========================================================
 F.2 Extract the plasmid DNA using the alkaline lysis method
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===========================================================
 
 This is a quick and efficient way to extract plasmid DNA without using a costly commercially available kit.
 
@@ -72,9 +72,9 @@ This is a quick and efficient way to extract plasmid DNA without using a costly 
 
 #. Resuspend the DNA pellet in 50 µL of TE buffer. Completely dissolve the pellet by pipetting the solution up and down several times.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===============================================================
 F.3 Visualize the plasmid DNA using agarose gel electrophoresis
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===============================================================
 
 Agarose gel electrophoresis is a standard molecular technique used to separate DNA of varying sizes. 
 
@@ -104,9 +104,9 @@ You will need:
 
 - Gel electrophoresis tank, tray, combs, electrode and power source
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 F.3.1 Prepare a 1% agarose gel
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 Prepare your agarose gel using a weight over volume (w/v) percentage solution. 
 
@@ -128,13 +128,16 @@ Prepare your agarose gel using a weight over volume (w/v) percentage solution.
 
    **Caution:** *Pouring the agarose slowly will prevent bubbles forming. Bubbles can disrupt the running of the gel. If bubbles DO form, you can gently push them to the side with a pipette tip.*
 
-   **Figure 6:** A typical gel tray used for agarose gel electrophoresis. The blue tape is adhered to either end of the gel tray to prevent leakage of the gel. 
+.. image:: gelplate600.jpg
+  :width: 300
+
+**Figure 6:** A typical gel tray used for agarose gel electrophoresis. The blue tape is adhered to either end of the gel tray to prevent leakage of the gel. 
 
 #. Place the gel tray, containing the agarose gel, into the gel box and fill the tank with 1XTAE buffer until the gel is completely covered in buffer.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------
 F.3.2	Load the samples and run the gel
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------
 
 #. Aliquot the desired concentration of each DNA sample into separate Eppendorf tubes. 
 #. Add loading dye to the samples. 
@@ -145,7 +148,10 @@ F.3.2	Load the samples and run the gel
 
    *To steady your hand as you load the samples, you can rest your hand that is holding the pipette on the gel box, or on your other hand. This will prevent your hand from shaking.* 
 
-   **Figure 7:** Experimental samples and a DNA size marker are loaded into the wells of the agarose gel.
+.. image:: pouringagel.jpg
+  :width: 300
+
+**Figure 7:** Experimental samples and a DNA size marker are loaded into the wells of the agarose gel.
 
 #. Place the lid onto the gel tank and attach the electrodes to the power supply. 
 
@@ -155,15 +161,18 @@ F.3.2	Load the samples and run the gel
    
    *To ensure the power supply and gel box are working, you should be able to see small bubbles in the buffer at the electrodes, which indicates that current is passing through.*
 
-   **Figure 8:** Gel, gel tank, and power supply are assembled and your gel is ready to run.
+.. image:: runningagel.jpg
+  :width: 300
+
+**Figure 8:** Gel, gel tank, and power supply are assembled and your gel is ready to run.
 
 #. Run the gel until the dye is approximately 75% of the way through the gel. This will take approximately 1-1.5 hours.
 
 #. Turn off the power, disconnect the electrodes, remove the lid of the gel tank, and carefully remove your gel and the gel tray. Drain off the excess buffer from the surface of the gel. Place the gel on paper towels to absorb any remaining buffer.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------------
 F.3.3	Visualize the DNA fragments under ultraviolet (UV) light
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------------
 
    **Warning:** *You should always wear protective clothing when using UV light, such as a lab coat, gloves and face shield.*
 
@@ -175,6 +184,9 @@ F.3.3	Visualize the DNA fragments under ultraviolet (UV) light
 
 #. The DNA bands will fluoresce when exposed to UV light (Figure 9). Take a picture of your gel.
 #. Properly dispose of your gel according to your institute's regulations.
+
+.. image:: gelimage.png
+  :width: 300
 
 **Figure 9:** Your gel image will show one lane (far left) with a DNA size marker. The adjacent lanes contain your experimental samples. In this image, you can see that the experimental sample in Lane A contains one DNA fragment, Lane B contains 2 DNA fragments, and Lane 3 contains 3 DNA fragments.
 

@@ -1,9 +1,10 @@
-=====
+#####
 Day 1
-=====
-********************************************
-A. Make Luria broth (LB) and LB agar plates.
-********************************************
+#####
+
+*******************************************
+A. Make Luria broth (LB) and LB agar plates
+*******************************************
 
 LB is a nutrient-rich media that is commonly used to grow bacteria. The addition of agar to LB results in the formation of a gel that bacteria can grow on, as they are unable to digest the agar but can gather nutrition from the LB within. You can also add an antibiotic to the broth. The antibiotic allows for the selection of only those bacteria with the specific antibiotic resistance that is conferred by a plasmid carrying the antibiotic resistance gene.
 
@@ -112,13 +113,17 @@ Bacterial stocks are typically stored in a glycerol solution in the -80°C freez
 .. caution:: *The LB agar plate should contain no antibiotics because the E.coli do not contain a plasmid that carries an antibiotic resistance gene.*
 
 2. Fill a small tub or dish with dry ice. Remove the vial containing the E.coli from the freezer and place it on the dry ice.
+
 3. Sterilize your inoculation loop by passing it at an angle through the flame of a Bunsen burner until it burns red. 
+
 .. caution:: *Let the loop cool before you scrape your bacterial cells/ inoculum from the vial. If the loop is too hot, it will kill the cells.*
+
 .. caution:: *Do not place the sterilized inoculum loop down on the bench or it will recontaminate it.*
+
 4. Touch the sterile loop to the bacteria in the glycerol stock. Gently scrape a small amount of the inoculum from the vial with your loop. 
 
 .. image:: streakingforasinglecolony.png
-  :width: 400
+  :width: 300
   :alt: streaking for single colony
 
 **Figure 2** How to streak bacteria onto an agar plate to achieve single colonies
@@ -128,8 +133,4 @@ Bacterial stocks are typically stored in a glycerol solution in the -80°C freez
 7. Using a freshly sterilized loop, drag through streak #2 and spread the bacteria over the last section of the plate, to create streak # 3.
 8. Incubate the plate with the newly streaked bacteria overnight (12-18 hours) at 37°C.
 
-.. only:: End Users
-
-  This paragraph will be shown only in the User's Guide.
-  
 *Invert the plates, so that if water condensation occurs, the water will collect on the plastic lid, not on the agar.*
