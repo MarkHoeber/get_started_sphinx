@@ -1,13 +1,16 @@
-=====
+#####
 Day 2
-=====
+#####
+
 **********************
 C. Grow *E.coli* cells
 **********************
 
 1. Remove your streaked agar plate from the 37°C incubator. You should see bacterial growth on the plate. The growth will be most abundant at streak #1 and it will get progressively scarcer for streak #2 and #3.  There should be single colonies visible on streak #3, see Figure 3.
 
-..image:: Streak.For.Single.Colony1.jpg
+.. image:: Streak.For.Single.Colony1.jpg
+  :width: 300
+  :alt: Streak.For.Single.Colony1
 
 **Figure 3** Growth of *E.coli* on an LB agar plate following overnight incubation.
 

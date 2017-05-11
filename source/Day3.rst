@@ -1,10 +1,9 @@
-=====
+#####
 Day 3
-=====
+#####
 
-*******************************
 (grow *E.coli* cells continued)
-*******************************
+
 
 6. Remove the tube of starter culture from the shaking platform in the 37°C incubator.
 
@@ -12,14 +11,15 @@ Day 3
 
 8. Incubate on a shaking platform at 37°C. Measure the optical density periodically (see below).
 
+
 *Phases of E.coli growth*
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 After the inoculation of the starter culture into the LB, the E.coli cells will grow rapidly at 37°C with shaking. There are various phases of growth, see Figure 4.
 
-..image:: Schematic curve.png
-:width: 400
-:alt: Schematic curve.png
+.. image:: Schematiccurve.png
+  :width: 300
+  :alt: Schematiccurve.png
 
 **Figure 4** The 4 phases of E.coli growth following inoculation
 
@@ -31,14 +31,15 @@ After the inoculation of the starter culture into the LB, the E.coli cells will 
 
 - *Death phase* - excess metabolic products become toxic to the cells. The cells cannot be used to make competent cells and they are not good for protein production.
 
-C.1 Measure the optical density (OD) of the *E.coli* cells.
------------------------------------------------------------
+**********************************************************
+C.1 Measure the optical density (OD) of the *E.coli* cells
+**********************************************************
 
 You will measure the OD600 of the E.coli cells at various time intervals. OD600 is an abbreviation for the absorbance (optical density) of the cells in LB at a wavelength of 600 nm. This is a common method for measuring bacterial (or other) cells in a liquid.
 
-..image:: Schematic curve.png
-:width: 400
-:alt: Schematic curve.png
+
+.. image:: spectrophometer.png
+
 
 **Figure 5** Standard spectrophotometer found in most molecular laboratories
 
@@ -78,6 +79,7 @@ You will measure the OD600 of the E.coli cells at various time intervals. OD600 
 D. Make competent *E.coli* cells
 ********************************
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *What are competent cells?*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -110,6 +112,7 @@ Another method commonly used is electroporation; however, this will not be dealt
 
 **Caution:** *Use sterile technique. You need to take precaution to not contaminate with bacteria or fungi from the air.*
 
+=============================
 E.1 Heat shock *E.coli* cells
 =============================
 
@@ -129,8 +132,7 @@ E.1 Heat shock *E.coli* cells
 
 #. Incubate the plates at 37°C overnight.
 
-*Invert the plates, so that if water condensation occurs, the water will collect on the plastic lid, not on the agar.
-*
+*Invert the plates, so that if water condensation occurs, the water will collect on the plastic lid, not on the agar.*
 
 
 
