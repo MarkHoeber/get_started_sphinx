@@ -7,11 +7,12 @@ Contents:
    :maxdepth: 2
 
    Background
-   Day1
-   Day2
-   Day3
-   Day4
-   Day5
+   Make Luria broth and LB agar plates
+   Transfer Ecoli cells
+   Grow Ecoli cells
+   Make competent Ecoli cells
+   Transform Competent Ecoli cells
+   Screen potentially transformed bacteria
 
 
 .. add new files to list above to include them in toc
