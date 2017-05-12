@@ -18,7 +18,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Get Started with Sphinx'
+project = u'Transforming bacterial cells with plasmid DNA'
 copyright = u'2016, Joanne Gibson'
 author = u'Joanne Gibson'
 
@@ -57,7 +57,7 @@ pygments_style = 'sphinx'
 # keep_warnings = False
 
 
-html_theme = 'alabaster'
+html_theme = 'haiku'
 
 
 
