@@ -1,5 +1,5 @@
-Get Started with Sphinx
-###############################
+Transforming bacteria with plasmid DNA
+######################################
 
 Contents:
 
