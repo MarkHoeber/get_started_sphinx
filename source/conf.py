@@ -19,7 +19,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Get Started with Sphinx'
-copyright = u'2016, Mark Hoeber'
+copyright = u'2018, Mark Hoeber'
 author = u'Mark Hoeber'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -57,8 +57,8 @@ pygments_style = 'sphinx'
 # keep_warnings = False
 
 
-#html_theme = 'default'
-html_theme = 'alabaster'
+html_theme = 'default'
+#html_theme = 'alabaster'
 
 
 
