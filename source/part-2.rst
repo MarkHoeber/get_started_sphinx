@@ -1,6 +1,8 @@
 What are somethings about bartending?
 **************************************
 
+.. |Jigger-Image| image:: shared/images/jigger[1].png
+
 Some places require a bartending license, which are given out by schools after taking classes on bartending. Not all places have the same rules, and can vary on things like:
 
 * Measuring.
