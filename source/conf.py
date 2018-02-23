@@ -18,9 +18,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Get Started with Sphinx'
-copyright = u'2016, Mark Hoeber'
-author = u'Mark Hoeber'
+project = u'Bartending'
+copyright = u'2018, Andrew Karpowicz'
+author = u'Andrew Karpowicz'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -58,7 +58,7 @@ pygments_style = 'sphinx'
 
 
 #html_theme = 'default'
-html_theme = 'alabaster'
+html_theme = 'nature'
 
 
 
