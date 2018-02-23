@@ -11,6 +11,7 @@ Get Started with Sphinx
    part-1
    part-2
    index.rst
+   intro.rst
    
 
 
