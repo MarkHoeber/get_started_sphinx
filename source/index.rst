@@ -10,7 +10,8 @@ Get Started with Sphinx
 
    part-1
    part-2
-   index.rst
+   intro.rst
+   
 
 
 .. add new files to list above to include them in toc
