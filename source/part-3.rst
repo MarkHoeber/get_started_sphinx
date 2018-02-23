@@ -26,12 +26,3 @@ Intro sentence.
 #. Add a lemon as a garish and a straw.
 
 At that point the drink is ready to be served.
-
-########
-AHHHHH
-########
-
-
-========
-AHHHHH
-========
