@@ -6,11 +6,11 @@ Get Started with Sphinx
 |Contents|
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    part-1
    part-2
-   part-3
+   index.rst
 
 
 .. add new files to list above to include them in toc
