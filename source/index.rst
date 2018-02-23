@@ -1,4 +1,4 @@
-Get Started with Sphinx
+Get Started with Bartending
 ###############################
 
 .. |Contents| replace:: Table of Contents
