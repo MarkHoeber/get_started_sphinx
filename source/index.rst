@@ -8,9 +8,6 @@ Get Started with Sphinx
 .. toctree::
    :maxdepth: 2
 
-   part-1
-   part-2
-   index.rst
    intro.rst
    
 
