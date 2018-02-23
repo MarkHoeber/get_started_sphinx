@@ -4,7 +4,7 @@ What are somethings about bartending?
 Some places require a bartending license, which are given out by schools after taking classes on bartending. Not all places have the same rules, and can vary on things like:
 
 * Measuring.
-    Some places allow for free pouring, which you eyeball how much liquor goes into the drink, while other places require you use a measuring tool like a `jigger <http://www.theiceco.co.uk/blog/wp-content/uploads/2014/11/jigger.png>`_.
+    Some places allow for free pouring, which you eyeball how much liquor goes into the drink, while other places require you use a measuring tool like a |Jigger-Image|.
 * Checking for IDs
     Depending on the establishment you may have varying rules on who to ID before serving. 
 * House drinks vs common drinks
