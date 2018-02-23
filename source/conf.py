@@ -58,7 +58,7 @@ pygments_style = 'sphinx'
 
 
 #html_theme = 'default'
-html_theme = 'nature'
+html_theme = 'default'
 
 
 
