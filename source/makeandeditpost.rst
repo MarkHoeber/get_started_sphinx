@@ -16,7 +16,7 @@ Making and Editing Your First Blog Post
 * Divider
 * HTML
 
-.. image:: rst_templates/Screen Shot 2018-02-18 at 9.23.55 PM.png
+.. image:: rst_templates/newlogonotext.jpg
 :width: 400
 :alt: Screen shot
 
