@@ -1,21 +1,24 @@
-Peter Amara
-***********
+*Peter Amara*
 
 http://www.musicboxpete.com
 ____________________________________________________________________________________________________________
 
 *Clerical Professional/Writer*
 
+
 Creative problem solver with excellent time-management skills. Both detail and big picture oriented. Outstanding writing and interpersonal communication skills. Dependable and personable. 
 
 *Tech Skills* 
+
 
 Proficient in Microsoft Office, Google Docs, Numbers and WordPress
 
 **Experience**                                                                                                                        
 
 *Feature Writer*
+
 Music Box Pete Blog, Medford, MA
+
 * Publish show previews on musical acts performing in Boston 
 * Cover news stories pertaining to the music industry
 * Post interviews with local artists about their music
@@ -23,7 +26,9 @@ Music Box Pete Blog, Medford, MA
 
 
 *Application Processor* 
-Liaison International, Watertown, MA                                                                                                                                                                                    
+
+Liaison International, Watertown, MA
+
 * Utilized College Application Systems (CAS) to verify student transcripts and coursework        
 * Verified students grades and converted GPA info via online portal
 * Provided customer service when needed to staff and applicants using the online system
@@ -31,7 +36,9 @@ Liaison International, Watertown, MA
 
 
 *Client Services Representative*
+
 CCS, Newton, MA
+
 * Processed E-Oscar dispute verifications for errors on consumers’ credit reports
 * Verified accuracy of consumers’ contact information in FACS system
 * Entered bankruptcy information from paper document into electronic format
@@ -39,7 +46,9 @@ CCS, Newton, MA
 
 
 *Data Entry Clerk*
-Harvard Pilgrim Health Care, Wellesley, MA 
+
+Harvard Pilgrim Health Care, Wellesley, MA
+
 * Processed incoming applications for the Medicare sales team
 * Entered demographic info for applicants and ensured accuracy of info
 * Reconciled processed applications to ensure proper count and stored for filing
@@ -49,7 +58,9 @@ Harvard Pilgrim Health Care, Wellesley, MA
 __________________________________________________________________________________
 
 *Coding Clerk*
+
 Innerscope Market Research, Boston, MA
+
 * Viewed and analyzed videos of focus group participants
 * Coded the facial expression responses of viewers to video stimuli 
 * Marked respondents' answers using Microsoft Excel
@@ -57,7 +68,9 @@ Innerscope Market Research, Boston, MA
 
 
 *Managing Editor*
-Esente Music Group, Beverly, MA 
+
+Esente Music Group, Beverly, MA
+
 * Wrote and edited articles for the Esente Center Stage blog
 * Managed a team of 2 writers to develop new writing content
 * Maintained contact with bands to inform them of new articles
@@ -65,7 +78,9 @@ Esente Music Group, Beverly, MA
 
 
 *Legal Records Management Clerk*
+
 EAPD, LLC, Boston, MA
+
 * Created files using LegalKey for employee research
 * Assisted attorneys in locating files by electronic means
 * Organized and maintained law libraries, documents, and case files
@@ -77,14 +92,24 @@ EAPD, LLC, Boston, MA
 
 
 Bachelor of Arts – Criminal Justice
-**Curry College** Milton, MA											   2007
+
+**Curry College** Milton, MA
+
+2007
+
 Graduated with Distinction, Curry College Honors Scholar
 
 
 Graduate Certificate – Music Industry Management
-**Northeastern University** Boston, MA              2011
+
+**Northeastern University** Boston, MA
+
+2011
 
 
-Candidate for Graduate Certificate - Technical Writing	
-**Middlesex Community College** Bedford, MA         2017
+Candidate for Graduate Certificate - Technical Writing
+
+**Middlesex Community College** Bedford, MA
+
+2017
 
