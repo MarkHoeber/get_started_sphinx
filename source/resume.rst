@@ -1,7 +1,7 @@
 Peter Amara
 ***********
 
-<li><a href="http://www.musicboxpete.com">MusicBoxPete</a></li>
+<a href="http://www.musicboxpete.com">MusicBoxPete</a>
 ____________________________________________________________________________________________________________
 
 Clerical Professional/Writer
