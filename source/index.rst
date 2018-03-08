@@ -10,6 +10,6 @@ Get Started with Sphinx
 
    intro.rst
    makeandeditpost.rst
-   peteramararesume.docx
+   resume.rst
 
 .. add new files to list above to include them in toc
