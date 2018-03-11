@@ -5,7 +5,10 @@ Part 3
 ********
 Puppies
 ********
-There should always be puppies involved.
+.. |TSABP| replace:: There should always be puppies
+
+"|TSABP|" involved.
+
 
 .. image:: latte.jpg
   :width: 500
@@ -19,6 +22,10 @@ There should always be puppies involved.
  * Puppies are happy to see you
  
  * Puppies also eat birds
+ 
+ ++++++++++++++++++++
+ "And now: |TSABP|"
+ ++++++++++++++++++++
  
  
   .. code-block:: HTML
