@@ -19,17 +19,16 @@ Don't get me started on cats.
 #. Third:
 
    They eat birds. 
+
+================
+Good Qualities
+================
   
+* Cute
   
-* Good quality
-  Cute
+* Kittens pwn the interwebs
   
-* Another good quality
-  Kittens pwn the interwebs
-  
-* Yet another good quality
-  Eat birds
-    Only redeeming quality
+* Redeeming quality: They eat birds
    
    
 
