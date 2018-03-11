@@ -1,6 +1,6 @@
 .. |TSABP| replace:: There should always be puppies
 
-"|TSABP|" involved.
+|TSABP| involved.
 
 ########
 Part 3
@@ -10,9 +10,9 @@ Part 3
 Puppies
 ********
 
-.. image:: latte.jpg
-  :width: 500
-  :alt: Dogs rule and cats drool.
+.. image:: source/latte.jpg
+  :width: 400
+  :alt: Puppy cuddles.
   
  =================
  Sourcing backup
@@ -23,10 +23,7 @@ Puppies
  
  * Puppies also eat birds
  
- ++++++++++++++++++++
- "And now: |TSABP|"
- ++++++++++++++++++++
- 
+
  
   .. code-block:: HTML
 
