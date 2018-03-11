@@ -11,6 +11,12 @@ There should always be puppies involved.
   :width: 400
   :alt: Dogs rule and cats drool.
   
-  ================
-  Any Questions?
-  ================
+  
+  .. code-block:: HTML
+
+  <html>
+     <head/>
+     <body>
+  This is where we add all the puppy content!
+     </body>
+  </html>
