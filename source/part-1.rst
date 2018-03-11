@@ -28,7 +28,7 @@ Seriously.
 ============
 You've been warned.
 
-.. image:: birdtakeover.jpg
+.. image:: birdtakeover.jpeg
   :width: 400
   :alt: Birds will rule.
 
