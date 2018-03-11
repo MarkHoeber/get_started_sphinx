@@ -1,3 +1,7 @@
+.. |TSABP| replace:: There should always be puppies
+
+"|TSABP|" involved.
+
 ########
 Part 3
 ########
@@ -5,10 +9,6 @@ Part 3
 ********
 Puppies
 ********
-.. |TSABP| replace:: There should always be puppies
-
-"|TSABP|" involved.
-
 
 .. image:: latte.jpg
   :width: 500
