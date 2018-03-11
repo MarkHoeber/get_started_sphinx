@@ -1,7 +1,11 @@
+.. raw:: html
+
+    <style> .red {color:red} 
+    
 #########
 Part 1
 #########
-
+</style>
 *********
 Birds
 *********
