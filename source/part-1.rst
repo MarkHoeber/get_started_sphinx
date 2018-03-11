@@ -33,6 +33,8 @@ You've been warned.
   :alt: Birds will rule.
 
 
+.. note:: Bird photo taken from @birdtakeover00 on Twitter
+.. caution:: Even Twitter is about birds!
 
 
 
