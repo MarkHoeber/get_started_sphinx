@@ -1,8 +1,6 @@
-########
 Part 3
 ########
 
-********
 Puppies
 ********
 
@@ -10,14 +8,16 @@ Puppies
 
 |TSABP| involved.
 
+
+Sourcing backup
 =================
- Sourcing backup
- =================
+
  * Puppies are way cuter than cats
  
  * Puppies are happy to see you
  
  * Puppies also eat birds
+ 
  
 .. image:: source/latte.jpg
   :width: 400
