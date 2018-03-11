@@ -1,11 +1,11 @@
 .. raw:: html
 
-    <style> .red {color:red} 
+    <style> .red {color:red} </style>
     
 #########
 Part 1
 #########
-</style>
+
 *********
 Birds
 *********
