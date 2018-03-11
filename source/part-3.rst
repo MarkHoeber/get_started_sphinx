@@ -8,10 +8,19 @@ Puppies
 There should always be puppies involved.
 
 .. image:: latte.jpg
-  :width: 400
+  :width: 500
   :alt: Dogs rule and cats drool.
   
-  
+ =================
+ Sourcing backup
+ =================
+ * Puppies are way cuter than cats
+ 
+ * Puppies are happy to see you
+ 
+ * Puppies also eat birds
+ 
+ 
   .. code-block:: HTML
 
   <html>
