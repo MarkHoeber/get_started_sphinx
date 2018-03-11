@@ -12,20 +12,21 @@ Birds are scary, vicious creatures.
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
-   * - Row 3, column 1
-     - Row 3, column 2
-     - Row 3, column 3
+   * - Millions of Birds
+     - Beaks
+     - Claws
+   * - Out number humans
+     - Peck your face off
+     - Claw your eyes out
+   * - Airial attacks
+     - Eat your brains
+     - Sharp little suckers
      
      
-===============================
-Seriously. You've been warned.
-===============================
+============
+Seriously.
+============
+You've been warned.
 
 
 
