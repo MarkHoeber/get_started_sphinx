@@ -28,7 +28,7 @@ Good Qualities
   
 * Kittens pwn the interwebs
   
-* Redeeming quality: They eat birds
+* Dead Birds
    
    
 
