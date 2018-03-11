@@ -19,12 +19,12 @@ Sourcing backup
  * Puppies also eat birds
  
  
-.. image:: source/latte.jpg
+.. image:: latte.jpg
   :width: 400
-  :alt: Puppy cuddles.
+  :alt: Birds will rule.
   
  
-  .. code-block:: HTML
+.. code-block:: HTML
 
   <html>
      <head/>
