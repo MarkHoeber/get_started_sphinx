@@ -19,8 +19,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Get Started with Sphinx'
-copyright = u'2018, Mark Hoeber'
-author = u'Mark Hoeber'
+copyright = u'2018, Mark Hoeber - With Hijacked editing by Theresa Matthews-Bolen'
+author = u'Theresa Matthews-Bolen'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
