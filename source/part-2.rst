@@ -8,17 +8,11 @@ Cats
 Don't get me started on cats.
 
 
-#. First:
+#. Yes, cats are cute.
 
-   Yes, cats are cute.
+#. Yes, kittens are even cuter.
 
-#. Second:
-
-   Yes, kittens are even cuter.
-
-#. Third:
-
-   They eat birds. 
+#. They eat birds. 
 
 ================
 Good Qualities
