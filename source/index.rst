@@ -1,5 +1,5 @@
-Get Started with Sphinx
-###############################
+Get Started with Sphinx using Puppies
+#######################################
 
 .. |Contents| replace:: Table of Contents
 
