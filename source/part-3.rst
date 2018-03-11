@@ -1,7 +1,3 @@
-.. |TSABP| replace:: There should always be puppies
-
-|TSABP| involved.
-
 ########
 Part 3
 ########
@@ -10,11 +6,11 @@ Part 3
 Puppies
 ********
 
-.. image:: source/latte.jpg
-  :width: 400
-  :alt: Puppy cuddles.
-  
- =================
+.. |TSABP| replace:: There should always be puppies
+
+|TSABP| involved.
+
+=================
  Sourcing backup
  =================
  * Puppies are way cuter than cats
@@ -23,7 +19,10 @@ Puppies
  
  * Puppies also eat birds
  
-
+.. image:: source/latte.jpg
+  :width: 400
+  :alt: Puppy cuddles.
+  
  
   .. code-block:: HTML
 
