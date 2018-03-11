@@ -24,7 +24,7 @@ Birds are scary, vicious creatures.
      
      
 ============
-Seriously.
+Seriously
 ============
 You've been warned.
 
