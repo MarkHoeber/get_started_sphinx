@@ -33,3 +33,10 @@ Good Qualities
    
 
 
+.. only:: Administrators
+
+  If this were a real bird emergency, you would have been instructed where to tune in your area.
+
+.. only:: End Users
+
+  You probably want to make your home bird-proof.
