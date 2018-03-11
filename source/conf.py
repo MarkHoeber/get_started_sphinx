@@ -48,7 +48,7 @@ language = None
 # today_fmt = '%B %d, %Y'
 
 #
-pygments_style = 'sphinx'
+pygments_style = 'fuschia'
 
 # A list of ignored prefixes for module index sorting.
 # modindex_common_prefix = []
