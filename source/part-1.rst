@@ -1,6 +1,3 @@
-.. raw:: html
-
-    <style> .red {color:red} </style>
     
 #########
 Part 1
