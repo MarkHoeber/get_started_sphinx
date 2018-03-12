@@ -7,3 +7,5 @@ starting point for new Sphinx projects.
 To build this project, in the command prompt, enter `make html`.
 
 To view the html output, open the file `build/html/index.html`.
+
+Check out my latest successes and failures: http://get-started-sphinxtmb.readthedocs.io/en/latest/
