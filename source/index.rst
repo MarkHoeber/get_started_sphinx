@@ -8,7 +8,6 @@ Sample Resume with Sphinx
 
 Mark Hoeber
 Instructor, Middlesex Community College
-EDITS
 
 
 |Contents|
